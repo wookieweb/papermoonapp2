@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		620A5B3017C2031C00370F56 /* setting-btn-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 620A5B2C17C2031C00370F56 /* setting-btn-hd.plist */; };
+		620A5B3117C2031C00370F56 /* setting-btn-hd.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 620A5B2D17C2031C00370F56 /* setting-btn-hd.pvr.ccz */; };
+		620A5B3217C2031C00370F56 /* setting-btn.plist in Resources */ = {isa = PBXBuildFile; fileRef = 620A5B2E17C2031C00370F56 /* setting-btn.plist */; };
+		620A5B3317C2031C00370F56 /* setting-btn.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 620A5B2F17C2031C00370F56 /* setting-btn.pvr.ccz */; };
+		620A5B3517C2038000370F56 /* moonfoxbox.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 620A5B3417C2038000370F56 /* moonfoxbox.jpg */; };
+		620A5B3717C2043500370F56 /* 75.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 620A5B3617C2043500370F56 /* 75.jpg */; };
 		621AC01B178A848600B62040 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 621AC01A178A848600B62040 /* CoreImage.framework */; };
 		62258CE11776B679007CB929 /* setting-background-hd.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 62258CDF1776B679007CB929 /* setting-background-hd.pvr.ccz */; };
 		62258CE21776B679007CB929 /* setting-background.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 62258CE01776B679007CB929 /* setting-background.pvr.ccz */; };
@@ -20,8 +26,6 @@
 		622A95891774891C00B52860 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 622A957F1774891C00B52860 /* Icon@2x.png */; };
 		622A958A1774891C00B52860 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 622A95801774891C00B52860 /* iTunesArtwork.png */; };
 		622A958B1774891C00B52860 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 622A95811774891C00B52860 /* iTunesArtwork@2x.png */; };
-		624ECDD6176986C7001B8C2E /* 75.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 624ECDD3176986C7001B8C2E /* 75.jpg */; };
-		624ECDD7176986C7001B8C2E /* moonfoxbox.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 624ECDD4176986C7001B8C2E /* moonfoxbox.jpg */; };
 		624ECDD8176986C7001B8C2E /* moonfoxshop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 624ECDD5176986C7001B8C2E /* moonfoxshop.jpg */; };
 		624ECDE01769BC63001B8C2E /* stylesheet.css in Resources */ = {isa = PBXBuildFile; fileRef = 624ECDDF1769BC63001B8C2E /* stylesheet.css */; };
 		624ECDE21769BCB3001B8C2E /* moon-fox-by-sergey-safonov.html in Resources */ = {isa = PBXBuildFile; fileRef = 624ECDE11769BCB3001B8C2E /* moon-fox-by-sergey-safonov.html */; };
@@ -39,10 +43,6 @@
 		625189C417704A6E001904B9 /* scene5_background0-hd.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 625189C017704A6E001904B9 /* scene5_background0-hd.pvr.ccz */; };
 		625189C517704A6E001904B9 /* scene5_background0.plist in Resources */ = {isa = PBXBuildFile; fileRef = 625189C117704A6E001904B9 /* scene5_background0.plist */; };
 		625189C617704A6E001904B9 /* scene5_background0.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 625189C217704A6E001904B9 /* scene5_background0.pvr.ccz */; };
-		6256FF8D17828F5E008C495D /* setting-btn-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6256FF8917828F5E008C495D /* setting-btn-hd.plist */; };
-		6256FF8E17828F5E008C495D /* setting-btn-hd.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 6256FF8A17828F5E008C495D /* setting-btn-hd.pvr.ccz */; };
-		6256FF8F17828F5E008C495D /* setting-btn.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6256FF8B17828F5E008C495D /* setting-btn.plist */; };
-		6256FF9017828F5E008C495D /* setting-btn.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 6256FF8C17828F5E008C495D /* setting-btn.pvr.ccz */; };
 		626A1BAB1771731400AF3BF9 /* scene5_smallBlue-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 626A1BA71771731400AF3BF9 /* scene5_smallBlue-hd.plist */; };
 		626A1BAC1771731400AF3BF9 /* scene5_smallBlue-hd.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 626A1BA81771731400AF3BF9 /* scene5_smallBlue-hd.pvr.ccz */; };
 		626A1BAD1771731400AF3BF9 /* scene5_smallBlue.plist in Resources */ = {isa = PBXBuildFile; fileRef = 626A1BA91771731400AF3BF9 /* scene5_smallBlue.plist */; };
@@ -585,6 +585,12 @@
 /* Begin PBXFileReference section */
 		620030FB175EAF73005E3EBF /* ClippingNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClippingNode.h; sourceTree = "<group>"; };
 		620030FC175EAF81005E3EBF /* CCShake.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCShake.h; sourceTree = "<group>"; };
+		620A5B2C17C2031C00370F56 /* setting-btn-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "setting-btn-hd.plist"; sourceTree = "<group>"; };
+		620A5B2D17C2031C00370F56 /* setting-btn-hd.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "setting-btn-hd.pvr.ccz"; sourceTree = "<group>"; };
+		620A5B2E17C2031C00370F56 /* setting-btn.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "setting-btn.plist"; sourceTree = "<group>"; };
+		620A5B2F17C2031C00370F56 /* setting-btn.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "setting-btn.pvr.ccz"; sourceTree = "<group>"; };
+		620A5B3417C2038000370F56 /* moonfoxbox.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moonfoxbox.jpg; sourceTree = "<group>"; };
+		620A5B3617C2043500370F56 /* 75.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 75.jpg; sourceTree = "<group>"; };
 		621AC01A178A848600B62040 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
 		62258CDF1776B679007CB929 /* setting-background-hd.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "setting-background-hd.pvr.ccz"; sourceTree = "<group>"; };
 		62258CE01776B679007CB929 /* setting-background.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "setting-background.pvr.ccz"; sourceTree = "<group>"; };
@@ -598,8 +604,6 @@
 		622A957F1774891C00B52860 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		622A95801774891C00B52860 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
 		622A95811774891C00B52860 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
-		624ECDD3176986C7001B8C2E /* 75.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 75.jpg; sourceTree = "<group>"; };
-		624ECDD4176986C7001B8C2E /* moonfoxbox.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moonfoxbox.jpg; sourceTree = "<group>"; };
 		624ECDD5176986C7001B8C2E /* moonfoxshop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moonfoxshop.jpg; sourceTree = "<group>"; };
 		624ECDDF1769BC63001B8C2E /* stylesheet.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesheet.css; sourceTree = "<group>"; };
 		624ECDE11769BCB3001B8C2E /* moon-fox-by-sergey-safonov.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "moon-fox-by-sergey-safonov.html"; sourceTree = "<group>"; };
@@ -618,10 +622,6 @@
 		625189C017704A6E001904B9 /* scene5_background0-hd.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "scene5_background0-hd.pvr.ccz"; sourceTree = "<group>"; };
 		625189C117704A6E001904B9 /* scene5_background0.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = scene5_background0.plist; sourceTree = "<group>"; };
 		625189C217704A6E001904B9 /* scene5_background0.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = scene5_background0.pvr.ccz; sourceTree = "<group>"; };
-		6256FF8917828F5E008C495D /* setting-btn-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "setting-btn-hd.plist"; sourceTree = "<group>"; };
-		6256FF8A17828F5E008C495D /* setting-btn-hd.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "setting-btn-hd.pvr.ccz"; sourceTree = "<group>"; };
-		6256FF8B17828F5E008C495D /* setting-btn.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "setting-btn.plist"; sourceTree = "<group>"; };
-		6256FF8C17828F5E008C495D /* setting-btn.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "setting-btn.pvr.ccz"; sourceTree = "<group>"; };
 		626A1BA71771731400AF3BF9 /* scene5_smallBlue-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "scene5_smallBlue-hd.plist"; sourceTree = "<group>"; };
 		626A1BA81771731400AF3BF9 /* scene5_smallBlue-hd.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "scene5_smallBlue-hd.pvr.ccz"; sourceTree = "<group>"; };
 		626A1BA91771731400AF3BF9 /* scene5_smallBlue.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = scene5_smallBlue.plist; sourceTree = "<group>"; };
@@ -1736,10 +1736,10 @@
 		62BF856A175E494800A730BA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				620A5B3617C2043500370F56 /* 75.jpg */,
+				620A5B3417C2038000370F56 /* moonfoxbox.jpg */,
 				624ECDE11769BCB3001B8C2E /* moon-fox-by-sergey-safonov.html */,
 				624ECDDF1769BC63001B8C2E /* stylesheet.css */,
-				624ECDD3176986C7001B8C2E /* 75.jpg */,
-				624ECDD4176986C7001B8C2E /* moonfoxbox.jpg */,
 				624ECDD5176986C7001B8C2E /* moonfoxshop.jpg */,
 				62BF8723175E4E9A00A730BA /* HelloCocosBuilder.ccb */,
 				624EBCDD175E5FB600DC4BBB /* Textures */,
@@ -2527,10 +2527,10 @@
 		62EF84D117743794005EAF3C /* SettingLayer */ = {
 			isa = PBXGroup;
 			children = (
-				6256FF8917828F5E008C495D /* setting-btn-hd.plist */,
-				6256FF8A17828F5E008C495D /* setting-btn-hd.pvr.ccz */,
-				6256FF8B17828F5E008C495D /* setting-btn.plist */,
-				6256FF8C17828F5E008C495D /* setting-btn.pvr.ccz */,
+				620A5B2C17C2031C00370F56 /* setting-btn-hd.plist */,
+				620A5B2D17C2031C00370F56 /* setting-btn-hd.pvr.ccz */,
+				620A5B2E17C2031C00370F56 /* setting-btn.plist */,
+				620A5B2F17C2031C00370F56 /* setting-btn.pvr.ccz */,
 				62258CDF1776B679007CB929 /* setting-background-hd.pvr.ccz */,
 				62258CE01776B679007CB929 /* setting-background.pvr.ccz */,
 				62BF8894175E4F1900A730BA /* setting-background-568h-hd.pvr.ccz */,
@@ -2900,8 +2900,6 @@
 				62B6EDDC175EC1FB0036A484 /* snd-closeCurtain.caf in Resources */,
 				62B6EDDD175EC1FB0036A484 /* snd-openCurtain.caf in Resources */,
 				62B6EDDE175EC1FB0036A484 /* snd-switch.caf in Resources */,
-				624ECDD6176986C7001B8C2E /* 75.jpg in Resources */,
-				624ECDD7176986C7001B8C2E /* moonfoxbox.jpg in Resources */,
 				624ECDD8176986C7001B8C2E /* moonfoxshop.jpg in Resources */,
 				624ECDE01769BC63001B8C2E /* stylesheet.css in Resources */,
 				624ECDE21769BCB3001B8C2E /* moon-fox-by-sergey-safonov.html in Resources */,
@@ -2988,10 +2986,6 @@
 				62DEAD1217814F22002DFF47 /* credit-background-hd.pvr.ccz in Resources */,
 				62DEAD1317814F22002DFF47 /* credit-background.plist in Resources */,
 				62DEAD1417814F22002DFF47 /* credit-background.pvr.ccz in Resources */,
-				6256FF8D17828F5E008C495D /* setting-btn-hd.plist in Resources */,
-				6256FF8E17828F5E008C495D /* setting-btn-hd.pvr.ccz in Resources */,
-				6256FF8F17828F5E008C495D /* setting-btn.plist in Resources */,
-				6256FF9017828F5E008C495D /* setting-btn.pvr.ccz in Resources */,
 				62E8BE3D17843621001D2574 /* font16.fnt in Resources */,
 				62E8BE3E17843621001D2574 /* font16.png in Resources */,
 				62E8BE3F17843621001D2574 /* font24.fnt in Resources */,
@@ -3007,6 +3001,12 @@
 				62A8E4B1178D32EF00130246 /* title-hd.pvr.ccz in Resources */,
 				62A8E4B2178D32EF00130246 /* title.plist in Resources */,
 				62A8E4B3178D32EF00130246 /* title.pvr.ccz in Resources */,
+				620A5B3017C2031C00370F56 /* setting-btn-hd.plist in Resources */,
+				620A5B3117C2031C00370F56 /* setting-btn-hd.pvr.ccz in Resources */,
+				620A5B3217C2031C00370F56 /* setting-btn.plist in Resources */,
+				620A5B3317C2031C00370F56 /* setting-btn.pvr.ccz in Resources */,
+				620A5B3517C2038000370F56 /* moonfoxbox.jpg in Resources */,
+				620A5B3717C2043500370F56 /* 75.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
